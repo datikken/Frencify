@@ -1,1 +1,2 @@
-# Frencify
+npm install
+npm init
